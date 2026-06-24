@@ -34,3 +34,6 @@
 [submodule "PUBLIC/WEB_APPS"]
 	path = PUBLIC/WEB_APPS
 	url = git@github.com:CypherWhisperer/WEB_APPS.git
+[submodule "GitHub_README"]
+	path = GitHub_README
+	url = git@github.com:CypherWhisperer/CypherWhisperer.git
