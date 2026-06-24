@@ -1,0 +1,36 @@
+[submodule "PRIVATE/INFRASTRUCTURE/AFFINE"]
+	path = PRIVATE/INFRASTRUCTURE/AFFINE
+	url = git@github.com:CypherWhisperer/cypher-affine.git
+[submodule "PRIVATE/BOOKS"]
+	path = PRIVATE/BOOKS
+	url = git@gitlab.com:CypherWhisperer/BOOKS.git
+[submodule "PRIVATE/OBSIDIAN_NOTES"]
+	path = PRIVATE/OBSIDIAN_NOTES
+	url = git@github.com:CypherWhisperer/OBSIDIAN_NOTES.git
+[submodule "PRIVATE/WEB_APPS/REACT_NEXT/MY_BIBLE"]
+	path = PRIVATE/WEB_APPS/REACT_NEXT/MY_BIBLE
+	url = git@github.com:CypherWhisperer/MY_BIBLE.git
+[submodule "PRIVATE/PERSONAL_DOCS"]
+	path = PRIVATE/PERSONAL_DOCS
+	url = git@github.com:CypherWhisperer/MY_DOCS.git
+[submodule "PRIVATE/DEV_SCRIPTS"]
+	path = PRIVATE/DEV_SCRIPTS
+	url = git@github.com:CypherWhisperer/MY_SCRIPTS.git
+[submodule "PRIVATE/INFRASTRUCTURE/N8N"]
+	path = PRIVATE/INFRASTRUCTURE/N8N
+	url = git@github.com:CypherWhisperer/cypher-n8n.git
+[submodule "PRIVATE/INFRASTRUCTURE/PENPOT"]
+	path = PRIVATE/INFRASTRUCTURE/PENPOT
+	url = git@github.com:CypherWhisperer/cypher-penpot.git
+[submodule "PRIVATE/PROJECT_HADASSAH"]
+	path = PRIVATE/PROJECT_HADASSAH
+	url = git@github.com:CypherWhisperer/PROJECT_HADDASSAH.git
+[submodule "PRIVATE/WEB_APPS/REACT_NEXT/PROJECT_X"]
+	path = PRIVATE/WEB_APPS/REACT_NEXT/PROJECT_X
+	url = git@github.com:CypherWhisperer/PROJECT_X.git
+[submodule "PUBLIC/LINUX"]
+	path = PUBLIC/LINUX
+	url = git@github.com:CypherWhisperer/LINUX.git
+[submodule "PUBLIC/WEB_APPS"]
+	path = PUBLIC/WEB_APPS
+	url = git@github.com:CypherWhisperer/WEB_APPS.git
